@@ -1,0 +1,4 @@
+.metals/*
+bin/*
+.scala-build/*
+.vscode/*
